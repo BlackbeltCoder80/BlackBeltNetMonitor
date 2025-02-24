@@ -1,4 +1,4 @@
-D:\Leroy Tillman\Python_Access_Panel\Python_Network_Access\
+
 │── network_monitor.py            # 🔹 Main script (runs all modules)
 │── modules\
 │   │── __init__.py               # 🔹 (Empty file to mark as a module)
